@@ -1,4 +1,5 @@
 (function(){
+    //some comment
     alert('YES');
     document.addEventListener('DOMContentLoaded', function(){
         document.getElementById('button').addEventListener('click', function(){
