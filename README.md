@@ -1,1 +1,1 @@
-# git-advanced
+# git-advanced - training Git!
